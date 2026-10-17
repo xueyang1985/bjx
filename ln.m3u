@@ -1,0 +1,992 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227461/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227574/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227714/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226179/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227365/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV1综合" group-title="央视频道",CCTV-1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227679/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV2财经" group-title="央视频道",CCTV-2财经
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV2财经" group-title="央视频道",CCTV-2财经
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226703/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV2财经" group-title="央视频道",CCTV-2财经
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227525/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV2财经" group-title="央视频道",CCTV-2财经
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227558/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV2财经" group-title="央视频道",CCTV-2财经
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226177/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV2财经" group-title="央视频道",CCTV-2财经
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227675/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV3综艺" group-title="央视频道",CCTV-3综艺
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227437/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV3综艺" group-title="央视频道",CCTV-3综艺
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227553/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV3综艺" group-title="央视频道",CCTV-3综艺
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV4中文国际" group-title="央视频道",CCTV-4中文国际
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV4中文国际" group-title="央视频道",CCTV-4中文国际
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226692/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV4中文国际" group-title="央视频道",CCTV-4中文国际
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227419/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV4中文国际" group-title="央视频道",CCTV-4中文国际
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227556/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV4中文国际" group-title="央视频道",CCTV-4中文国际
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV4中文国际" group-title="央视频道",CCTV-4中文国际
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227682/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV5+体育赛事" group-title="央视频道",CCTV-5+体育赛事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV5+体育赛事" group-title="央视频道",CCTV-5+体育赛事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227555/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV5+体育赛事" group-title="央视频道",CCTV-5+体育赛事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227571/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV5+体育赛事" group-title="央视频道",CCTV-5+体育赛事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227602/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV5体育" group-title="央视频道",CCTV-5体育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV5体育" group-title="央视频道",CCTV-5体育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227522/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV5体育" group-title="央视频道",CCTV-5体育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226200/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV6电影" group-title="央视频道",CCTV-6电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227422/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV6电影" group-title="央视频道",CCTV-6电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227428/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV6电影" group-title="央视频道",CCTV-6电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226199/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV7国防军事" group-title="央视频道",CCTV-7国防军事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV7国防军事" group-title="央视频道",CCTV-7国防军事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227528/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV7国防军事" group-title="央视频道",CCTV-7国防军事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226188/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV7国防军事" group-title="央视频道",CCTV-7国防军事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227534/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV8电视剧" group-title="央视频道",CCTV-8电视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227431/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV8电视剧" group-title="央视频道",CCTV-8电视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227531/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV8电视剧" group-title="央视频道",CCTV-8电视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV9纪录" group-title="央视频道",CCTV-9纪录
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV9纪录" group-title="央视频道",CCTV-9纪录
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227434/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV9纪录" group-title="央视频道",CCTV-9纪录
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227559/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV9纪录" group-title="央视频道",CCTV-9纪录
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226173/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV10科教" group-title="央视频道",CCTV-10科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV10科教" group-title="央视频道",CCTV-10科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227440/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV10科教" group-title="央视频道",CCTV-10科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227562/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV10科教" group-title="央视频道",CCTV-10科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226194/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV10科教" group-title="央视频道",CCTV-10科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227678/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV11戏曲" group-title="央视频道",CCTV-11戏曲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227443/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV11戏曲" group-title="央视频道",CCTV-11戏曲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227537/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV11戏曲" group-title="央视频道",CCTV-11戏曲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV12社会与法" group-title="央视频道",CCTV-12社会与法
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV12社会与法" group-title="央视频道",CCTV-12社会与法
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227540/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV12社会与法" group-title="央视频道",CCTV-12社会与法
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227543/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV12社会与法" group-title="央视频道",CCTV-12社会与法
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV12社会与法" group-title="央视频道",CCTV-12社会与法
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227599/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV13新闻" group-title="央视频道",CCTV-13新闻
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227446/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV13新闻" group-title="央视频道",CCTV-13新闻
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227449/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV13新闻" group-title="央视频道",CCTV-13新闻
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV14少儿" group-title="央视频道",CCTV-14少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV14少儿" group-title="央视频道",CCTV-14少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227452/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV14少儿" group-title="央视频道",CCTV-14少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227546/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV14少儿" group-title="央视频道",CCTV-14少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV14少儿" group-title="央视频道",CCTV-14少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227681/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV15音乐" group-title="央视频道",CCTV-15音乐
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227549/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV15音乐" group-title="央视频道",CCTV-15音乐
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227565/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV15音乐" group-title="央视频道",CCTV-15音乐
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226180/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV16奥林匹克" group-title="央视频道",CCTV-16奥林匹克
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV16奥林匹克" group-title="央视频道",CCTV-16奥林匹克
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227455/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV16奥林匹克" group-title="央视频道",CCTV-16奥林匹克
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227458/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV17农业农村" group-title="央视频道",CCTV-17农业农村
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV17农业农村" group-title="央视频道",CCTV-17农业农村
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227552/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV17农业农村" group-title="央视频道",CCTV-17农业农村
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV17农业农村" group-title="央视频道",CCTV-17农业农村
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226866/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV17农业农村" group-title="央视频道",CCTV-17农业农村
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227685/index.m3u8
+#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV兵器科技" group-title="央视频道",CCTV兵器科技
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227647/index.m3u8
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV第一剧场" group-title="央视频道",CCTV第一剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227730/index.m3u8
+#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV电视指南" group-title="央视频道",CCTV电视指南
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227748/index.m3u8
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV风云剧场" group-title="央视频道",CCTV风云剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227736/index.m3u8
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV风云音乐" group-title="央视频道",CCTV风云音乐
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227641/index.m3u8
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV风云足球" group-title="央视频道",CCTV风云足球
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227638/index.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV高尔夫网球" group-title="央视频道",CCTV高尔夫网球
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV怀旧剧场" group-title="央视频道",CCTV怀旧剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV女性时尚" group-title="央视频道",CCTV女性时尚
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227742/index.m3u8
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV世界地理" group-title="央视频道",CCTV世界地理
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227739/index.m3u8
+#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV央视台球" group-title="央视频道",CCTV央视台球
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227711/index.m3u8
+#EXTINF:-1 tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV央视文化精品" group-title="央视频道",CCTV央视文化精品
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227644/index.m3u8
+#EXTINF:-1 tvg-id="中央新影老故事" tvg-name="中央新影老故事" tvg-logo="https://tv.jun1985.cn/logo.php?channel=中央新影老故事" group-title="央视频道",中央新影老故事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227745/index.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CGTN" group-title="央视频道",CGTN
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CETV1" group-title="央视频道",CETV1
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227593/index.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CETV1" group-title="央视频道",CETV1
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CETV2" group-title="央视频道",CETV2
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
+#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CETV3" group-title="央视频道",CETV3
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CETV4" group-title="央视频道",CETV4
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV4K" group-title="4K频道",CCTV4K超高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227623/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV16" group-title="4K频道",CCTV16奥林匹克4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京卫视4K" group-title="4K频道",北京卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227629/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京卫视4K" group-title="4K频道",北京卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227656/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东方卫视4K" group-title="4K频道",东方卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广东卫视4K" group-title="4K频道",广东卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227712/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖南卫视4K" group-title="4K频道",湖南卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227630/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江苏卫视4K" group-title="4K频道",江苏卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=山东卫视4K" group-title="4K频道",山东卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227621/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=深圳卫视4K" group-title="4K频道",深圳卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227626/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=四川卫视4K" group-title="4K频道",四川卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227624/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=浙江卫视4K" group-title="4K频道",浙江卫视4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界4K" group-title="4K频道",咪视界4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-id="至臻视界4K" tvg-name="至臻视界4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=至臻视界4K" group-title="4K频道",至臻视界4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CHC动作电影" group-title="电影频道",CHC动作电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CHC家庭影院" group-title="电影频道",CHC家庭影院
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tv.jun1985.cn/logo.php?channel=CHC影迷电影" group-title="电影频道",CHC影迷电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁卫视" group-title="辽宁频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁卫视" group-title="辽宁频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁卫视" group-title="辽宁频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227570/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁卫视" group-title="辽宁频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227609/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁卫视" group-title="辽宁频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227605/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁卫视" group-title="辽宁频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226141/index.m3u8
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁北方" group-title="辽宁频道",辽宁北方
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227551/index.m3u8
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁北方" group-title="辽宁频道",辽宁北方
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227663/index.m3u8
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁都市" group-title="辽宁频道",辽宁都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227569/index.m3u8
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁都市" group-title="辽宁频道",辽宁都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227639/index.m3u8
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁公共" group-title="辽宁频道",辽宁公共
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227575/index.m3u8
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁公共" group-title="辽宁频道",辽宁公共
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227658/index.m3u8
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁教育青少" group-title="辽宁频道",辽宁教育青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227655/index.m3u8
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁教育青少" group-title="辽宁频道",辽宁教育青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227660/index.m3u8
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁经济" group-title="辽宁频道",辽宁经济
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227645/index.m3u8
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁经济" group-title="辽宁频道",辽宁经济
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227666/index.m3u8
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁生活" group-title="辽宁频道",辽宁生活
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227560/index.m3u8
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁生活" group-title="辽宁频道",辽宁生活
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227657/index.m3u8
+#EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁体育休闲" group-title="辽宁频道",辽宁体育休闲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227642/index.m3u8
+#EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁体育休闲" group-title="辽宁频道",辽宁体育休闲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227654/index.m3u8
+#EXTINF:-1 tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁移动电视" group-title="辽宁频道",辽宁移动电视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227554/index.m3u8
+#EXTINF:-1 tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁移动电视" group-title="辽宁频道",辽宁移动电视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227664/index.m3u8
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁影视剧" group-title="辽宁频道",辽宁影视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227651/index.m3u8
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁影视剧" group-title="辽宁频道",辽宁影视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227652/index.m3u8
+#EXTINF:-1 tvg-id="沈阳新闻综合" tvg-name="沈阳新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=沈阳新闻综合" group-title="辽宁频道",沈阳新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227563/index.m3u8
+#EXTINF:-1 tvg-id="沈阳新闻综合" tvg-name="沈阳新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=沈阳新闻综合" group-title="辽宁频道",沈阳新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227584/index.m3u8
+#EXTINF:-1 tvg-id="阜新教育" tvg-name="阜新教育" tvg-logo="https://tv.jun1985.cn/logo.php?channel=阜新教育" group-title="辽宁频道",阜新教育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227662/index.m3u8
+#EXTINF:-1 tvg-id="阜新新闻综合" tvg-name="阜新新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=阜新新闻综合" group-title="辽宁频道",阜新新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227717/index.m3u8
+#EXTINF:-1 tvg-id="盘锦都市" tvg-name="盘锦都市" tvg-logo="https://tv.jun1985.cn/logo.php?channel=盘锦都市" group-title="辽宁频道",盘锦都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227659/index.m3u8
+#EXTINF:-1 tvg-id="盘锦新闻综合" tvg-name="盘锦新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=盘锦新闻综合" group-title="辽宁频道",盘锦新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227751/index.m3u8
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=安多卫视" group-title="卫视频道",安多卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227561/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=安徽卫视" group-title="卫视频道",安徽卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227567/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=安徽卫视" group-title="卫视频道",安徽卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227634/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=安徽卫视" group-title="卫视频道",安徽卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227693/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=安徽卫视" group-title="卫视频道",安徽卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京卫视" group-title="卫视频道",北京卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京卫视" group-title="卫视频道",北京卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226666/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京卫视" group-title="卫视频道",北京卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227473/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京卫视" group-title="卫视频道",北京卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227616/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京卫视" group-title="卫视频道",北京卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227688/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京卫视" group-title="卫视频道",北京卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226185/index.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=兵团卫视" group-title="卫视频道",兵团卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227464/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重庆卫视" group-title="卫视频道",重庆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227580/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重庆卫视" group-title="卫视频道",重庆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重庆卫视" group-title="卫视频道",重庆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227614/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重庆卫视" group-title="卫视频道",重庆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226169/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东方卫视" group-title="卫视频道",东方卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227476/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东方卫视" group-title="卫视频道",东方卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226187/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东方卫视" group-title="卫视频道",东方卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226697/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东方卫视" group-title="卫视频道",东方卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227628/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东方卫视" group-title="卫视频道",东方卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227696/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东方卫视" group-title="卫视频道",东方卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226168/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东南卫视" group-title="卫视频道",东南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227467/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东南卫视" group-title="卫视频道",东南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=东南卫视" group-title="卫视频道",东南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226186/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=甘肃卫视" group-title="卫视频道",甘肃卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227470/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=甘肃卫视" group-title="卫视频道",甘肃卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226166/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广东卫视" group-title="卫视频道",广东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226167/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广东卫视" group-title="卫视频道",广东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226686/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广东卫视" group-title="卫视频道",广东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227479/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广东卫视" group-title="卫视频道",广东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227524/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广东卫视" group-title="卫视频道",广东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227694/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广东卫视" group-title="卫视频道",广东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226165/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广西卫视" group-title="卫视频道",广西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227577/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广西卫视" group-title="卫视频道",广西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227625/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=广西卫视" group-title="卫视频道",广西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226150/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=贵州卫视" group-title="卫视频道",贵州卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227564/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=贵州卫视" group-title="卫视频道",贵州卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226164/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=海南卫视" group-title="卫视频道",海南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227601/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=海南卫视" group-title="卫视频道",海南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=河北卫视" group-title="卫视频道",河北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227592/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=河北卫视" group-title="卫视频道",河北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=河北卫视" group-title="卫视频道",河北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226163/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=河南卫视" group-title="卫视频道",河南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227595/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=河南卫视" group-title="卫视频道",河南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=河南卫视" group-title="卫视频道",河南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227583/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226145/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227521/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227702/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖北卫视" group-title="卫视频道",湖北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227518/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖北卫视" group-title="卫视频道",湖北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227586/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖北卫视" group-title="卫视频道",湖北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227697/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖北卫视" group-title="卫视频道",湖北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226162/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖南卫视" group-title="卫视频道",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227589/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖南卫视" group-title="卫视频道",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖南卫视" group-title="卫视频道",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226669/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖南卫视" group-title="卫视频道",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227515/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖南卫视" group-title="卫视频道",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227687/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=湖南卫视" group-title="卫视频道",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226161/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=吉林卫视" group-title="卫视频道",吉林卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227488/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=吉林卫视" group-title="卫视频道",吉林卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227512/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=吉林卫视" group-title="卫视频道",吉林卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226159/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江苏卫视" group-title="卫视频道",江苏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227482/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江苏卫视" group-title="卫视频道",江苏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226160/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江苏卫视" group-title="卫视频道",江苏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226672/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江苏卫视" group-title="卫视频道",江苏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227622/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江苏卫视" group-title="卫视频道",江苏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227691/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江苏卫视" group-title="卫视频道",江苏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226143/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江西卫视" group-title="卫视频道",江西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227598/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江西卫视" group-title="卫视频道",江西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227619/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=江西卫视" group-title="卫视频道",江西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226142/index.m3u8
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=康巴卫视" group-title="卫视频道",康巴卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古卫视", group-title="卫视频道",内蒙古卫视
+http://play1-qk.nmtv.cn/live/3208526general.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古卫视" group-title="卫视频道",内蒙古卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227585/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古卫视" group-title="卫视频道",内蒙古卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226155/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=宁夏卫视" group-title="卫视频道",宁夏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227494/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=宁夏卫视" group-title="卫视频道",宁夏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226154/index.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=农林卫视" group-title="卫视频道",农林卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227497/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=青海卫视" group-title="卫视频道",青海卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227500/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=青海卫视" group-title="卫视频道",青海卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226153/index.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=三沙卫视" group-title="卫视频道",三沙卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227610/index.m3u8
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=厦门卫视" group-title="卫视频道",厦门卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227591/index.m3u8
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=山东教育卫视" group-title="卫视频道",山东教育卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227620/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=山东卫视" group-title="卫视频道",山东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227509/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=山东卫视" group-title="卫视频道",山东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227573/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=山东卫视" group-title="卫视频道",山东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227608/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=山东卫视" group-title="卫视频道",山东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226138/index.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=山西卫视" group-title="卫视频道",山西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227503/index.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=山西卫视" group-title="卫视频道",山西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226137/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=陕西卫视" group-title="卫视频道",陕西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=深圳卫视" group-title="卫视频道",深圳卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226136/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=深圳卫视" group-title="卫视频道",深圳卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227576/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=深圳卫视" group-title="卫视频道",深圳卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=深圳卫视" group-title="卫视频道",深圳卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227699/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=深圳卫视" group-title="卫视频道",深圳卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226152/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=四川卫视" group-title="卫视频道",四川卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227579/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=四川卫视" group-title="卫视频道",四川卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227603/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=四川卫视" group-title="卫视频道",四川卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227611/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=四川卫视" group-title="卫视频道",四川卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=天津卫视" group-title="卫视频道",天津卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227582/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=天津卫视" group-title="卫视频道",天津卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=天津卫视" group-title="卫视频道",天津卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226135/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=天津卫视" group-title="卫视频道",天津卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227684/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=西藏卫视" group-title="卫视频道",西藏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=西藏卫视" group-title="卫视频道",西藏卫视(藏语)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227506/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=新疆卫视" group-title="卫视频道",新疆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227604/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=新疆卫视" group-title="卫视频道",新疆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226151/index.m3u8
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=延边卫视" group-title="卫视频道",延边卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227607/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=云南卫视" group-title="卫视频道",云南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=云南卫视" group-title="卫视频道",云南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227536/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=云南卫视" group-title="卫视频道",云南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226148/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=浙江卫视" group-title="卫视频道",浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227485/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=浙江卫视" group-title="卫视频道",浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226134/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=浙江卫视" group-title="卫视频道",浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226700/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=浙江卫视" group-title="卫视频道",浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227631/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=浙江卫视" group-title="卫视频道",浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227690/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=浙江卫视" group-title="卫视频道",浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://tv.jun1985.cn/logo.php?channel=金鹰卡通" group-title="卡通频道",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227648/index.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://tv.jun1985.cn/logo.php?channel=金鹰卡通" group-title="卡通频道",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227669/index.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://tv.jun1985.cn/logo.php?channel=金鹰卡通" group-title="卡通频道",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226158/index.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://tv.jun1985.cn/logo.php?channel=嘉佳卡通" group-title="卡通频道",嘉佳卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227672/index.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://tv.jun1985.cn/logo.php?channel=优漫卡通" group-title="卡通频道",优漫卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227676/index.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://tv.jun1985.cn/logo.php?channel=优漫卡通" group-title="卡通频道",优漫卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://tv.jun1985.cn/logo.php?channel=新动漫" group-title="卡通频道",新动漫
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227706/index.m3u8
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://tv.jun1985.cn/logo.php?channel=卡酷少儿" group-title="卡通频道",卡酷少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://tv.jun1985.cn/logo.php?channel=睛彩广场舞" group-title="其他频道",睛彩广场舞
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227590/index.m3u8
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://tv.jun1985.cn/logo.php?channel=睛彩竞技" group-title="其他频道",睛彩竞技
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227670/index.m3u8
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://tv.jun1985.cn/logo.php?channel=睛彩篮球" group-title="其他频道",睛彩篮球
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227673/index.m3u8
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://tv.jun1985.cn/logo.php?channel=睛彩青少" group-title="其他频道",睛彩青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227587/index.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://tv.jun1985.cn/logo.php?channel=金鹰纪实" group-title="其他频道",金鹰纪实
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227700/index.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://tv.jun1985.cn/logo.php?channel=金鹰纪实" group-title="其他频道",金鹰纪实
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227661/index.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京纪实科教" group-title="其他频道",北京纪实科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227566/index.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://tv.jun1985.cn/logo.php?channel=北京纪实科教" group-title="其他频道",北京纪实科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227617/index.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://tv.jun1985.cn/logo.php?channel=快乐垂钓" group-title="其他频道",快乐垂钓
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227632/index.m3u8
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://tv.jun1985.cn/logo.php?channel=梨园频道" group-title="其他频道",梨园频道
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227721/index.m3u8
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://tv.jun1985.cn/logo.php?channel=文物宝库" group-title="其他频道",文物宝库
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227718/index.m3u8
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://tv.jun1985.cn/logo.php?channel=武术世界" group-title="其他频道",武术世界
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227708/index.m3u8
+#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://tv.jun1985.cn/logo.php?channel=书画频道" group-title="其他频道",书画频道
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227650/index.m3u8
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://tv.jun1985.cn/logo.php?channel=国学频道" group-title="其他频道",国学频道
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227653/index.m3u8
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://tv.jun1985.cn/logo.php?channel=生态环境" group-title="其他频道",生态环境
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227754/index.m3u8
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://tv.jun1985.cn/logo.php?channel=家庭理财" group-title="其他频道",家庭理财
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227596/index.m3u8
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重温经典" group-title="地方",重温经典
+http://b.jun1985.cn:90/php/cwjd.php
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重温经典" group-title="地方",重温经典
+http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重温经典" group-title="地方",重温经典
+http://rihou.cc:555/tv/[Pd]重温经典
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重温经典" group-title="地方",重温经典
+http://120.76.248.139/live/bfgd/4200000635.m3u8
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.jun1985.cn/logo.php?channel=重温经典" group-title="地方",重温经典
+http://198.204.228.26/live/cwjd.m3u8
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://tv.jun1985.cn/logo.php?channel=五星体育" group-title="地方",五星体育
+http://192.151.150.154/live/wxtyhd.m3u8
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://tv.jun1985.cn/logo.php?channel=五星体育" group-title="地方",五星体育
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="http://175.178.182.213/tb/求索纪录.png" group-title="湖南",求索纪录
+http://192.187.124.34:81/live/qsjl.m3u8
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="http://175.178.182.213/tb/求索动物.png" group-title="湖南",求索动物
+http://192.187.124.34:81/live/qsdw.m3u8
+#EXTINF:-1 tvg-id="求索海淘" tvg-name="求索海淘" tvg-logo="http://175.178.182.213/tb/求索海淘.png" group-title="湖南",求索海淘
+http://192.187.124.34:81/live/qskx.m3u8
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="http://175.178.182.213/tb/求索生活.png" group-title="湖南",求索生活
+http://192.187.124.34:81/live/qssh.m3u8
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="http://175.178.182.213/tb/精彩影视.png" group-title="湖南",精彩影视
+http://192.187.124.34:81/live/hsjcys.m3u8
+#EXTINF:-1 tvg-id="风尚音乐" tvg-name="风尚音乐" tvg-logo="http://175.178.182.213/tb/风尚音乐.png" group-title="湖南",风尚音乐
+http://192.187.124.34:81/live/hsfsyy.m3u8
+#EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="http://175.178.182.213/tb/精品剧场.png" group-title="湖南",精品剧场
+http://192.187.124.34:81/live/hsjpjc.m3u8
+#EXTINF:-1 tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="http://175.178.182.213/tb/欧美影院.png" group-title="湖南",欧美影院
+http://192.187.124.34:81/live/hsomyy.m3u8
+#EXTINF:-1 tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="http://175.178.182.213/tb/少儿动漫.png" group-title="湖南",少儿动漫
+http://192.187.124.34:81/live/hssedm.m3u8
+#EXTINF:-1 tvg-id="探索纪录" tvg-name="探索纪录" tvg-logo="http://175.178.182.213/tb/探索纪录.png" group-title="湖南",探索纪录
+http://192.187.124.34:81/live/hstsjl.m3u8
+#EXTINF:-1 tvg-id="亚洲影院" tvg-name="亚洲影院" tvg-logo="http://175.178.182.213/tb/亚洲影院.png" group-title="湖南",亚洲影院
+http://192.187.124.34:81/live/hsyzyy.m3u8
+#EXTINF:-1 tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="http://175.178.182.213/tb/IHOT爱院线.png" group-title="湖南",IHOT爱院线
+http://192.187.124.34:81/live/ihotayx.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="http://175.178.182.213/tb/湖南电影.png" group-title="湖南",湖南电影
+http://192.187.124.34:81/live/hndya.m3u8
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="http://175.178.182.213/tb/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://192.187.124.34:81/live/hndsja.m3u8
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="http://175.178.182.213/tb/湖南经视.png" group-title="湖南",湖南经视
+http://192.187.124.34:81/live/hnjsa.m3u8
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="http://175.178.182.213/tb/湖南都市.png" group-title="湖南",湖南都市
+http://192.187.124.34:81/live/hndsa.m3u8
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="http://175.178.182.213/tb/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://192.187.124.34:81/live/hngga.m3u8
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="http://175.178.182.213/tb/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://192.187.124.34:81/live/hnyla.m3u8
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="http://175.178.182.213/tb/湖南教育.png" group-title="湖南",湖南教育
+http://192.187.124.34:81/live/hndjy.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="http://175.178.182.213/tb/金鹰纪实.png" group-title="湖南",金鹰纪实
+http://192.187.124.34:81/live/hnjyjsa.m3u8
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="http://175.178.182.213/tb/湖南国际.png" group-title="湖南",湖南国际
+http://192.187.124.34:81/live/hngj.m3u8
+#EXTINF:-1 tvg-id="湖南导视" tvg-name="湖南导视" tvg-logo="http://175.178.182.213/tb/湖南导视.png" group-title="湖南",湖南导视
+http://192.187.124.34:81/live/hnda.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tv.jun1985.cn/logo.php?channel=凤凰中文" group-title="香港",鳳凰中文
+http://A/ku9/js/fhshow.js?id=fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://tv.jun1985.cn/logo.php?channel=凤凰资讯" group-title="香港",鳳凰資訊
+http://A/ku9/js/fhshow.js?id=fhzx
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://tv.jun1985.cn/logo.php?channel=凤凰香港" group-title="香港",鳳凰香港
+http://A/ku9/js/fhshow.js?id=fhhk
+#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=香港卫视" group-title="香港",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://tv.jun1985.cn/logo.php?channel=环球电视台" group-title="香港",环球电视台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1,tvg-id="亚洲卫视1" tvg-name="亚洲卫视1" tvg-logo="https://tv.jun1985.cn/logo.php?channel=亚洲卫视" group-title="香港",亚洲卫视
+rtmp://pull-hsbj.vzan.com/v/slowlive_821481626725612419
+#EXTINF:-1,tvg-id="亚洲卫视1" tvg-name="亚洲卫视1" tvg-logo="https://tv.jun1985.cn/logo.php?channel=亚洲卫视" group-title="香港",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://tv.jun1985.cn/logo.php?channel=澳门莲花" group-title="香港",澳门莲花
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:-1,tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古蒙语卫视" group-title="内蒙古",内蒙古蒙语卫视
+http://play1-qk.nmtv.cn/live/2315general.m3u8
+#EXTINF:-1,tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古蒙语卫视" group-title="内蒙古",内蒙古蒙语卫视
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+#EXTINF:-1,tvg-id="内蒙古农牧频道" tvg-name="内蒙古农牧频道" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古农牧频道" group-title="内蒙古",内蒙古农牧
+http://play1-qk.nmtv.cn/live/2320general.m3u8
+#EXTINF:-1,tvg-id="内蒙古农牧频道" tvg-name="内蒙古农牧频道" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古农牧频道" group-title="内蒙古",内蒙古农牧
+http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
+#EXTINF:-1,tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古文体娱乐" group-title="内蒙古",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/2319general.m3u8
+#EXTINF:-1,tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古文体娱乐" group-title="内蒙古",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1,tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古经济生活" group-title="内蒙古",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/2317general.m3u8
+#EXTINF:-1,tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古经济生活" group-title="内蒙古",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1,tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古新闻综合" group-title="内蒙古",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/2316general.m3u8
+#EXTINF:-1,tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古新闻综合" group-title="内蒙古",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1,tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古WS" group-title="内蒙古",内蒙古蒙语文化
+http://play1-qk.nmtv.cn/live/2321general.m3u8
+#EXTINF:-1,tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古WS" group-title="内蒙古",内蒙古蒙语文化
+http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+#EXTINF:-1,tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古少儿" group-title="内蒙古",内蒙古少儿
+http://play1-qk.nmtv.cn/live/2318general.m3u8
+#EXTINF:-1,tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://tv.jun1985.cn/logo.php?channel=内蒙古少儿" group-title="内蒙古",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1,tvg-id="赤峰新闻综合" tvg-name="赤峰新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=赤峰新闻综合" group-title="内蒙古",赤峰新闻综合
+http://play1-qk.nmtv.cn/live/2351general.m3u8
+#EXTINF:-1,tvg-id="赤峰新闻综合" tvg-name="赤峰新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=赤峰新闻综合" group-title="内蒙古",赤峰新闻综合
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1,tvg-id="元宝山电视台" tvg-name="元宝山电视台" tvg-logo="https://tv.jun1985.cn/logo.php?channel=元宝山电视台" group-title="内蒙古",元宝山电视台
+http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+#EXTINF:-1,tvg-id="呼和浩特新闻综合" tvg-name="呼和浩特新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=呼和浩特新闻综合" group-title="内蒙古",呼和浩特新闻综合
+http://play1-qk.nmtv.cn/live/2331general.m3u8
+#EXTINF:-1,tvg-id="呼和浩特新闻综合" tvg-name="呼和浩特新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=呼和浩特新闻综合" group-title="内蒙古",呼和浩特新闻综合
+http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
+#EXTINF:-1,tvg-id="伊金霍洛旗电视台" tvg-name="伊金霍洛旗电视台" tvg-logo="https://tv.jun1985.cn/logo.php?channel=伊金霍洛旗电视台" group-title="内蒙古",伊金霍洛旗电视台
+http://www.dsk.cc/nmtv/erds_yjhlxl.php
+#EXTINF:-1,tvg-id="准格尔旗综合" tvg-name="准格尔旗综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=准格尔旗综合" group-title="内蒙古",准格尔旗综合
+http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+#EXTINF:-1,tvg-id="呼伦贝尔新闻综合" tvg-name="呼伦贝尔新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=呼伦贝尔新闻综合" group-title="内蒙古",呼伦贝尔新闻综合
+http://play1-qk.nmtv.cn/live/2356general.m3u8
+#EXTINF:-1,tvg-id="呼伦贝尔新闻综合" tvg-name="呼伦贝尔新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=呼伦贝尔新闻综合" group-title="内蒙古",呼伦贝尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
+#EXTINF:-1,tvg-id="阿荣旗电视台" tvg-name="阿荣旗电视台" tvg-logo="https://tv.jun1985.cn/logo.php?channel=阿荣旗电视台" group-title="内蒙古",阿荣旗电视台
+http://www.dsk.cc/nmtv/hl_arqtv.php?t=hls
+#EXTINF:-1,tvg-id="阿拉善新闻综合" tvg-name="阿拉善新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=阿拉善新闻综合" group-title="内蒙古",阿拉善新闻综合
+http://play1-qk.nmtv.cn/live/2347general.m3u8
+#EXTINF:-1,tvg-id="阿拉善新闻综合" tvg-name="阿拉善新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=阿拉善新闻综合" group-title="内蒙古",阿拉善新闻综合
+http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
+#EXTINF:-1,tvg-id="通辽新闻综合" tvg-name="通辽新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=通辽新闻综合" group-title="内蒙古",通辽新闻综合
+http://play1-qk.nmtv.cn/live/2353general.m3u8
+#EXTINF:-1,tvg-id="通辽新闻综合" tvg-name="通辽新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=通辽新闻综合" group-title="内蒙古",通辽新闻综合
+http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
+#EXTINF:-1,tvg-id="乌海新闻综合" tvg-name="乌海新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=乌海新闻综合" group-title="内蒙古",乌海新闻综合
+http://play1-qk.nmtv.cn/live/2355general.m3u8
+#EXTINF:-1,tvg-id="乌海新闻综合" tvg-name="乌海新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=乌海新闻综合" group-title="内蒙古",乌海新闻综合
+http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
+#EXTINF:-1,tvg-id="乌海新闻综合" tvg-name="乌海新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=乌海新闻综合" group-title="内蒙古",乌海新闻综合
+http://live.wuhainews.org.cn/xwzh/playlist.m3u8
+#EXTINF:-1,tvg-id="乌海都市生活" tvg-name="乌海都市生活" tvg-logo="https://tv.jun1985.cn/logo.php?channel=乌海都市生活" group-title="内蒙古",乌海都市生活
+http://live.wuhainews.org.cn/dssh/sd/live.m3u8
+#EXTINF:-1,tvg-id="安盟新闻综合" tvg-name="安盟新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=安盟新闻综合" group-title="内蒙古",兴安盟新闻综合
+http://play1-qk.nmtv.cn/live/2357general.m3u8
+#EXTINF:-1,tvg-id="安盟新闻综合" tvg-name="安盟新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=安盟新闻综合" group-title="内蒙古",兴安盟新闻综合
+http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
+#EXTINF:-1,tvg-id="锡林郭勒综合" tvg-name="锡林郭勒综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=锡林郭勒综合" group-title="内蒙古",锡林郭勒综合
+http://play1-qk.nmtv.cn/live/2346general.m3u8
+#EXTINF:-1,tvg-id="锡林郭勒综合" tvg-name="锡林郭勒综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=锡林郭勒综合" group-title="内蒙古",锡林郭勒综合
+http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+#EXTINF:-1,tvg-id="锡林郭勒综合" tvg-name="锡林郭勒综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=锡林郭勒综合" group-title="内蒙古",锡林郭勒综合
+http://livecdnpull.xlglrbw.org.cn/live/tvzhpd.m3u8
+#EXTINF:-1,tvg-id="二连浩特综合" tvg-name="二连浩特综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=二连浩特综合" group-title="内蒙古",二连浩特综合
+http://play1-qk.nmtv.cn/live/2351general.m3u8
+#EXTINF:-1,tvg-id="包头新闻综合" tvg-name="包头新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=包头新闻综合" group-title="内蒙古",包头新闻综合
+http://play1-qk.nmtv.cn/live/2358general.m3u8
+#EXTINF:-1,tvg-id="包头新闻综合" tvg-name="包头新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=包头新闻综合" group-title="内蒙古",包头新闻综合
+http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
+#EXTINF:-1,tvg-id="巴彦县综合频道" tvg-name="巴彦县综合频道" tvg-logo="https://tv.jun1985.cn/logo.php?channel=巴彦县综合频道" group-title="内蒙古",巴彦淖尔新闻综合
+http://play1-qk.nmtv.cn/live/2348general.m3u8
+#EXTINF:-1,tvg-id="巴彦县综合频道" tvg-name="巴彦县综合频道" tvg-logo="https://tv.jun1985.cn/logo.php?channel=巴彦县综合频道" group-title="内蒙古",巴彦淖尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
+#EXTINF:-1,tvg-id="鄂尔多斯新闻综合" tvg-name="鄂尔多斯新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=鄂尔多斯新闻综合" group-title="内蒙古",鄂尔多斯新闻综合
+http://play1-qk.nmtv.cn/live/2349general.m3u8
+#EXTINF:-1,tvg-id="鄂尔多斯新闻综合" tvg-name="鄂尔多斯新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=鄂尔多斯新闻综合" group-title="内蒙古",鄂尔多斯新闻综合
+http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
+#EXTINF:-1,tvg-id="鄂尔多斯新闻综合" tvg-name="鄂尔多斯新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=鄂尔多斯新闻综合" group-title="内蒙古",鄂尔多斯新闻综合
+http://live.nxw.org.cn/lsdream/h2mxgj4/1000/live.m3u8
+#EXTINF:-1,tvg-id="鄂尔多斯经济服务" tvg-name="鄂尔多斯经济服务" tvg-logo="https://tv.jun1985.cn/logo.php?channel=鄂尔多斯经济服务" group-title="内蒙古",鄂尔多斯经济服务
+http://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8
+#EXTINF:-1,tvg-id="乌兰察布新闻综合" tvg-name="乌兰察布新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=乌兰察布新闻综合" group-title="内蒙古",乌兰察布新闻综合
+http://play1-qk.nmtv.cn/live/2354general.m3u8
+#EXTINF:-1,tvg-id="乌兰察布新闻综合" tvg-name="乌兰察布新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=乌兰察布新闻综合" group-title="内蒙古",乌兰察布新闻综合
+http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
+#EXTINF:-1,tvg-id="乌兰察布新闻综合" tvg-name="乌兰察布新闻综合" tvg-logo="https://tv.jun1985.cn/logo.php?channel=乌兰察布新闻综合" group-title="内蒙古",乌兰察布新闻综合
+http://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8
+#EXTINF:-1,tvg-id="乌兰察布经济生活" tvg-name="乌兰察布经济生活" tvg-logo="https://tv.jun1985.cn/logo.php?channel=乌兰察布经济生活" group-title="内蒙古",乌兰察布经济生活
+http://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
+#EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://tv.jun1985.cn/logo.php?channel=求索记录" group-title="其他",求索记录
+http://123.145.24.208:8003/udp/225.0.4.232:7980
+#EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://tv.jun1985.cn/logo.php?channel=求索记录" group-title="其他",求索记录
+http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://tv.jun1985.cn/logo.php?channel=求索科学" group-title="其他",求索科学
+http://A/ku9/js/bfgd.js?id=286
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://tv.jun1985.cn/logo.php?channel=求索科学" group-title="其他",求索科学
+http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://tv.jun1985.cn/logo.php?channel=求索动物" group-title="其他",求索动物
+http://A/ku9/js/bfgd.js?id=287
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://tv.jun1985.cn/logo.php?channel=求索动物" group-title="其他",求索动物
+http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://tv.jun1985.cn/logo.php?channel=求索生活" group-title="其他",求索生活
+http://A/ku9/js/bfgd.js?id=288
+#EXTINF:-1 tvg-name="10间敢死队" tvg-logo="https://live.fanmingming.com/tv/10间敢死队.png" group-title="点播电影",10间敢死队
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/284052735/index.m3u8
+#EXTINF:-1 tvg-name="731" tvg-logo="https://live.fanmingming.com/tv/731.png" group-title="点播电影",731
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282808880/index.m3u8
+#EXTINF:-1 tvg-name="万米危机" tvg-logo="https://live.fanmingming.com/tv/万米危机.png" group-title="点播电影",万米危机
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283964574/index.m3u8
+#EXTINF:-1 tvg-name="创:战神" tvg-logo="https://live.fanmingming.com/tv/创:战神.png" group-title="点播电影",创:战神
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283040548/index.m3u8
+#EXTINF:-1 tvg-name="刺杀小说家" tvg-logo="https://live.fanmingming.com/tv/刺杀小说家.png" group-title="点播电影",刺杀小说家
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282765789/index.m3u8
+#EXTINF:-1 tvg-name="庇护之地" tvg-logo="https://live.fanmingming.com/tv/庇护之地.png" group-title="点播电影",庇护之地
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283331181/index.m3u8
+#EXTINF:-1 tvg-name="志愿军" tvg-logo="https://live.fanmingming.com/tv/志愿军.png" group-title="点播电影",志愿军
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282888797/index.m3u8
+#EXTINF:-1 tvg-name="惊天魔盗团3（4K至臻MAX）" tvg-logo="https://live.fanmingming.com/tv/惊天魔盗团3（4K至臻MAX）.png" group-title="点播电影",惊天魔盗团3（4K至臻MAX）
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283848716/index.m3u8
+#EXTINF:-1 tvg-name="拯救大兵瑞恩[4K超清]" tvg-logo="https://live.fanmingming.com/tv/拯救大兵瑞恩[4K超清].png" group-title="点播电影",拯救大兵瑞恩[4K超清]
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/277811090/index.m3u8
+#EXTINF:-1 tvg-name="既性谋杀" tvg-logo="https://live.fanmingming.com/tv/既性谋杀.png" group-title="点播电影",既性谋杀
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282873224/index.m3u8
+#EXTINF:-1 tvg-name="日掛中天" tvg-logo="https://live.fanmingming.com/tv/日掛中天.png" group-title="点播电影",日掛中天
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282691918/index.m3u8
+#EXTINF:-1 tvg-name="森中有林" tvg-logo="https://live.fanmingming.com/tv/森中有林.png" group-title="点播电影",森中有林
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283939859/index.m3u8
+#EXTINF:-1 tvg-name="浪浪人生" tvg-logo="https://live.fanmingming.com/tv/浪浪人生.png" group-title="点播电影",浪浪人生
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282898862/index.m3u8
+#EXTINF:-1 tvg-name="熊猫计划之部落奇遇记（4K至臻MAX）" tvg-logo="https://live.fanmingming.com/tv/熊猫计划之部落奇遇记（4K至臻MAX）.png" group-title="点播电影",熊猫计划之部落奇遇记（4K至臻MAX）
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283566518/index.m3u8
+#EXTINF:-1 tvg-name="爆水管（4K至臻MAX）" tvg-logo="https://live.fanmingming.com/tv/爆水管（4K至臻MAX）.png" group-title="点播电影",爆水管（4K至臻MAX）
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283182803/index.m3u8
+#EXTINF:-1 tvg-name="神雕侠侣:问世间" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣:问世间.png" group-title="点播电影",神雕侠侣:问世间
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282218162/index.m3u8
+#EXTINF:-1 tvg-name="镖人" tvg-logo="https://live.fanmingming.com/tv/镖人.png" group-title="点播电影",镖人
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283894660/index.m3u8
+#EXTINF:-1 tvg-name="长安的荔枝" tvg-logo="https://live.fanmingming.com/tv/长安的荔枝.png" group-title="点播电影",长安的荔枝
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282309282/index.m3u8
+#EXTINF:-1 tvg-name="门牙" tvg-logo="https://live.fanmingming.com/tv/门牙.png" group-title="点播电影",门牙
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/284033642/index.m3u8
+#EXTINF:-1 tvg-name="雷霆营救" tvg-logo="https://live.fanmingming.com/tv/雷霆营救.png" group-title="点播电影",雷霆营救
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282871776/index.m3u8
+#EXTINF:-1,tvg-id="编号17" tvg-name="编号17" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",编号17
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281858274/index.m3u8
+#EXTINF:-1,tvg-id="谍网追凶" tvg-name="谍网追凶" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",谍网追凶
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281716320/index.m3u8
+#EXTINF:-1,tvg-id="和夫人" tvg-name="和夫人" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",和夫人
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281868305/index.m3u8
+#EXTINF:-1,tvg-id="斗罗大陆剧场版剑道尘心" tvg-name="斗罗大陆剧场版剑道尘心" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",斗罗大陆剧场版剑道尘心
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281839624/index.m3u8
+#EXTINF:-1,tvg-id="雷霆特工队" tvg-name="雷霆特工队" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",雷霆特工队
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281940320/index.m3u8
+#EXTINF:-1,tvg-id="终极拯救" tvg-name="终极拯救" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",终极拯救
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281988374/index.m3u8
+#EXTINF:-1,tvg-id="猫猫的奇幻漂流" tvg-name="猫猫的奇幻漂流" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",猫猫的奇幻漂流
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281974290/index.m3u8
+#EXTINF:-1,tvg-id="大哥大" tvg-name="大哥大" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",大哥大
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/282050835/index.m3u8
+#EXTINF:-1,tvg-id="绑架毛乎乎" tvg-name="绑架毛乎乎" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",绑架毛乎乎
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/282121689/index.m3u8
+#EXTINF:-1,tvg-id="热烈" tvg-name="热烈" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",热烈
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/282036513/index.m3u8
+#EXTINF:-1,tvg-id="哪吒之魔童闹海" tvg-name="哪吒之魔童闹海" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",哪吒之魔童闹海
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281965600/index.m3u8
+#EXTINF:-1,tvg-id="酱园弄·悬案" tvg-name="酱园弄·悬案" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",酱园弄·悬案
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/282101554/index.m3u8
+#EXTINF:-1 tvg-name="暮光之城:新月4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=暮光之城:新月4K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",暮光之城:新月4K
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281154967/index.m3u8
+#EXTINF:-1 tvg-name="西虹市首富4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=西虹市首富4K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",西虹市首富4K
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281351723/index.m3u8
+#EXTINF:-1 tvg-name="名侦探柯南:百万美元的五棱星" tvg-logo="https://tv.jun1985.cn/logo.php?channel=名侦探柯南:百万美元的五棱星" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",名侦探柯南:百万美元的五棱星
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280748291/index.m3u8
+#EXTINF:-1 tvg-name="美国队长4" tvg-logo="https://tv.jun1985.cn/logo.php?channel=美国队长4" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",美国队长4
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639870/index.m3u8
+#EXTINF:-1 tvg-name="猎金游戏" tvg-logo="https://tv.jun1985.cn/logo.php?channel=猎金游戏" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",猎金游戏
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281678369/index.m3u8
+#EXTINF:-1 tvg-name="制暴:无限杀机" tvg-logo="https://tv.jun1985.cn/logo.php?channel=制暴:无限杀机" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",制暴:无限杀机
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281534678/index.m3u8
+#EXTINF:-1 tvg-name="人生开门红" tvg-logo="https://tv.jun1985.cn/logo.php?channel=人生开门红" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",人生开门红
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281713239/index.m3u8
+#EXTINF:-1 tvg-name="水饺皇后" tvg-logo="https://tv.jun1985.cn/logo.php?channel=水饺皇后" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",水饺皇后
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281765020/index.m3u8
+#EXTINF:-1 tvg-name="误判" tvg-logo="https://tv.jun1985.cn/logo.php?channel=误判" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",误判
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280818906/index.m3u8
+#EXTINF:-1 tvg-name="小小的我" tvg-logo="https://tv.jun1985.cn/logo.php?channel=小小的我" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",小小的我
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280820945/index.m3u8
+#EXTINF:-1 tvg-name="唐探1990" tvg-logo="https://tv.jun1985.cn/logo.php?channel=唐探1990" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="点播电影",唐探1990
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281356130/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="射雕英雄传:侠之大者" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",射雕英雄传:侠之大者
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281241577/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="狮子王:木法沙传奇4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",狮子王:木法沙传奇4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281118339/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="因果报应4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",因果报应4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281133043/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="狐妖传说4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",狐妖传说4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281056353/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="养蜂人4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",养蜂人4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281264759/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="笑傲江湖4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",笑傲江湖4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280861818/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="夏洛特烦恼4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",夏洛特烦恼4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280205251/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="逆行人生4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",逆行人生4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280179468/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="焚城" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",焚城
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281153292/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="猎魂人" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",猎魂人
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281273703/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="喜剧的阴谋" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",喜剧的阴谋
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281299069/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="草原上的火焰" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",草原上的火焰
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281283769/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="误杀3" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",误杀3
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/281184717/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="床前明月，咣！" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",床前明月，咣！
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280928630/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="小丑2" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",小丑2
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280831521/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="外太空的莫扎特" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",外太空的莫扎特
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/276828638/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="满江红" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",满江红
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/277753847/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="刺猬" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",刺猬
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280191532/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="爆款好人" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",爆款好人
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280347019/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="抓娃娃" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",抓娃娃
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/279751593/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="我本是高山" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",我本是高山
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/278808645/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="念念相忘" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",念念相忘
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/278263108/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="我经过风暴" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",我经过风暴
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/278310065/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="阿凡达水之道4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",阿凡达水之道4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280708922/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name=",哪吒之魔童降世4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",哪吒之魔童降世4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/280952678/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="封神第一部:朝歌风云" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",封神第一部:朝歌风云
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="这么多年" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",这么多年
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="长沙夜生活" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",长沙夜生活
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="检查风云" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",检查风云
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/277828690/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="人生路不熟" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",人生路不熟
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/277889247/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="纸画皮4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",纸画皮4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/279849512/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="神都密探4K" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",神都密探4K
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/279854530/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="盗梦空间" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",盗梦空间
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/275086363/index.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="星际穿越" tvg-logo="https://tv.jun1985.cn/logo.php?channel=未知频道" group-title="点播电影",星际穿越
+http://hwottcdn.ln.chinamobile.com/34/16/88888888/273543872/index.m3u8
+#EXTINF:-1 tvg-id="辽宁宜佳购物" tvg-name="辽宁宜佳购物" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁宜佳购物" group-title="购物频道",辽宁宜佳购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227557/index.m3u8
+#EXTINF:-1 tvg-id="辽宁宜佳购物" tvg-name="辽宁宜佳购物" tvg-logo="https://tv.jun1985.cn/logo.php?channel=辽宁宜佳购物" group-title="购物频道",辽宁宜佳购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227572/index.m3u8
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://tv.jun1985.cn/logo.php?channel=好享购物" group-title="购物频道",好享购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226663/index.m3u8
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://tv.jun1985.cn/logo.php?channel=家有购物" group-title="购物频道",家有购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227703/index.m3u8
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://tv.jun1985.cn/logo.php?channel=央广购物" group-title="购物频道",央广购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227581/index.m3u8
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://tv.jun1985.cn/logo.php?channel=优购物" group-title="购物频道",优购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227578/index.m3u8
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://tv.jun1985.cn/logo.php?channel=聚鲨环球精选" group-title="购物频道",聚鲨环球精选
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227667/index.m3u8
+#EXTINF:-1 tvg-id="咪视界01" tvg-name="咪视界01" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界01" group-title="咪视界频道",咪视界01
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
+#EXTINF:-1 tvg-id="咪视界02" tvg-name="咪视界02" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界02" group-title="咪视界频道",咪视界02
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
+#EXTINF:-1 tvg-id="咪视界03" tvg-name="咪视界03" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界03" group-title="咪视界频道",咪视界03
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227323/index.m3u8
+#EXTINF:-1 tvg-id="咪视界04" tvg-name="咪视界04" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界04" group-title="咪视界频道",咪视界04
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227387/index.m3u8
+#EXTINF:-1 tvg-id="咪视界05" tvg-name="咪视界05" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界05" group-title="咪视界频道",咪视界05
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227366/index.m3u8
+#EXTINF:-1 tvg-id="咪视界06" tvg-name="咪视界06" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界06" group-title="咪视界频道",咪视界06
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227369/index.m3u8
+#EXTINF:-1 tvg-id="咪视界07" tvg-name="咪视界07" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界07" group-title="咪视界频道",咪视界07
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
+#EXTINF:-1 tvg-id="咪视界08" tvg-name="咪视界08" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界08" group-title="咪视界频道",咪视界08
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227320/index.m3u8
+#EXTINF:-1 tvg-id="咪视界09" tvg-name="咪视界09" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界09" group-title="咪视界频道",咪视界09
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8
+#EXTINF:-1 tvg-id="咪视界10" tvg-name="咪视界10" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界10" group-title="咪视界频道",咪视界10
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
+#EXTINF:-1 tvg-id="咪视界11" tvg-name="咪视界11" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界11" group-title="咪视界频道",咪视界11
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
+#EXTINF:-1 tvg-id="咪视界12" tvg-name="咪视界12" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界12" group-title="咪视界频道",咪视界12
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
+#EXTINF:-1 tvg-id="咪视界13" tvg-name="咪视界13" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界13" group-title="咪视界频道",咪视界13
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227326/index.m3u8
+#EXTINF:-1 tvg-id="咪视界14" tvg-name="咪视界14" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界14" group-title="咪视界频道",咪视界14
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
+#EXTINF:-1 tvg-id="咪视界15" tvg-name="咪视界15" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界15" group-title="咪视界频道",咪视界15
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227293/index.m3u8
+#EXTINF:-1 tvg-id="咪视界16" tvg-name="咪视界16" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界16" group-title="咪视界频道",咪视界16
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
+#EXTINF:-1 tvg-id="咪视界17" tvg-name="咪视界17" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界17" group-title="咪视界频道",咪视界17
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227378/index.m3u8
+#EXTINF:-1 tvg-id="咪视界18" tvg-name="咪视界18" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界18" group-title="咪视界频道",咪视界18
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8
+#EXTINF:-1 tvg-id="咪视界19" tvg-name="咪视界19" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界19" group-title="咪视界频道",咪视界19
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
+#EXTINF:-1 tvg-id="咪视界20" tvg-name="咪视界20" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界20" group-title="咪视界频道",咪视界20
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227390/index.m3u8
+#EXTINF:-1 tvg-id="咪视界21" tvg-name="咪视界21" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界21" group-title="咪视界频道",咪视界21
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227430/index.m3u8
+#EXTINF:-1 tvg-id="咪视界22" tvg-name="咪视界22" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界22" group-title="咪视界频道",咪视界22
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
+#EXTINF:-1 tvg-id="咪视界23" tvg-name="咪视界23" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界23" group-title="咪视界频道",咪视界23
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
+#EXTINF:-1 tvg-id="咪视界24" tvg-name="咪视界24" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界24" group-title="咪视界频道",咪视界24
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227442/index.m3u8
+#EXTINF:-1 tvg-id="咪视界25" tvg-name="咪视界25" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界25" group-title="咪视界频道",咪视界25
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227445/index.m3u8
+#EXTINF:-1 tvg-id="咪视界26" tvg-name="咪视界26" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界26" group-title="咪视界频道",咪视界26
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
+#EXTINF:-1 tvg-id="咪视界27" tvg-name="咪视界27" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界27" group-title="咪视界频道",咪视界27
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
+#EXTINF:-1 tvg-id="咪视界28" tvg-name="咪视界28" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界28" group-title="咪视界频道",咪视界28
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
+#EXTINF:-1 tvg-id="咪视界29" tvg-name="咪视界29" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界29" group-title="咪视界频道",咪视界29
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227384/index.m3u8
+#EXTINF:-1 tvg-id="咪视界30" tvg-name="咪视界30" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界30" group-title="咪视界频道",咪视界30
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
+#EXTINF:-1 tvg-id="咪视界31" tvg-name="咪视界31" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界31" group-title="咪视界频道",咪视界31
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
+#EXTINF:-1 tvg-id="咪视界32" tvg-name="咪视界32" tvg-logo="https://tv.jun1985.cn/logo.php?channel=咪视界32" group-title="咪视界频道",咪视界32
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
