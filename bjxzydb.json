@@ -1,39 +1,39 @@
 {
-    "spider": "https://gitee.com/a720704b/bjxx/raw/master/spider.jar",
-    "sites": [
+    “蜘蛛”：“https://github.com/xueyang1985/bjx/raw/main/spider.jar”，
+    “网站”：[
         {
-            "key": "DB",
-            "name": "豆瓣导航 | JAR",
-            "type": 3,
-            "api": "csp_DB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
+            “键”：“数据库”，
+            "name" : "豆瓣导航 | JAR" ,
+            “类型”：3，
+            “api”：“csp_DB”，
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1，
+            “可变”：1
+        } ,
         {
-            "key": "LivePlatform",
-            "name": "直播聚合 | JAR",
-            "type": 3,
-            "api": "csp_LivePlatform",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
+            "key" : "直播平台" ,
+            "name" : "直播聚合 | JAR" ,
+            “类型”：3，
+            “api”：“csp_LivePlatform”，
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1，
+            “可变”：1
+        } ,
         {
-            "key": "CaiJiDaQuan",
-            "name": "采集大全 | JAR",
-            "type": 3,
-            "api": "csp_CaiJiDaQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
+            "key" : "财鸡大全" ,
+            "name" : "采集大全 | JAR" ,
+            “类型”：3，
+            "api" : "csp_CaiJiDaQuan" ,
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1，
+            “可变”：1
+        } ,
         {
-            "key": "FirstAid",
-            "name": "急救技能 | JAR",
+            “key”：“急救”，
+            "name" : "急救技能 | JAR" ,
             "type": 3,
             "api": "csp_FirstAid",
             "searchable": 1,
