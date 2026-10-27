@@ -1,0 +1,749 @@
+{
+    "spider": "https://gh-proxy.org/raw.githubusercontent.com/xueyang1985/bjx/refs/heads/main/spider.jar",
+    "sites": [
+        {
+            "key": "DB",
+            "name": "豆瓣导航 | JAR",
+            "type": 3,
+            "api": "csp_DB",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "LivePlatform",
+            "name": "直播聚合 | JAR",
+            "type": 3,
+            "api": "csp_LivePlatform",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "CaiJiDaQuan",
+            "name": "采集大全 | JAR",
+            "type": 3,
+            "api": "csp_CaiJiDaQuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "FirstAid",
+            "name": "急救技能 | JAR",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "BeileHu",
+            "name": "乐虎儿歌 | JAR",
+            "type": 3,
+            "api": "csp_BeileHu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "XiaoXue",
+            "name": "小学课堂 | JAR",
+            "type": 3,
+            "api": "csp_XiaoXue",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "ChuZhong",
+            "name": "初中课堂 | JAR",
+            "type": 3,
+            "api": "csp_ChuZhong",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "GaoZhong",
+            "name": "高中课堂 | JAR",
+            "type": 3,
+            "api": "csp_GaoZhong",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "DanBoYinYue",
+            "name": "蛋播音乐 | JAR",
+            "type": 3,
+            "api": "csp_DanBoYinYue",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "DjDuo",
+            "name": "帝街多多 | JAR",
+            "type": 3,
+            "api": "csp_DjDuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "QiShuiMusic",
+            "name": "汽水音乐 | JAR",
+            "type": 3,
+            "api": "csp_QiShuiMusic",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "MiNuo",
+            "name": "米诺影视 | JAR",
+            "type": 3,
+            "api": "csp_MiNuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "南瓜视频APP",
+            "name": "南瓜视频｜JAR",
+            "type": 3,
+            "api": "csp_Nangua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appId": "10003",
+                "verCode": 58,
+                "verName": "1.0.0",
+                "pkg": "com.dongyu.movies",
+                "appKey": "00823f50736454de37cfef8b260c9e35",
+                "appSecret": "aca767d257733a3d97fe125bb9150feb",
+                "soMd5": "28922fee11cea66d7e9f2b5c02151b44",
+                "apkMd5": "415705b07be237654f9a760306f01c9f",
+                "pkgMd5": "725e9c0fda0e0925e234d8256dc08b07",
+                "signMd5": "d97197f84e41b05941688809857e0685",
+                "host": [
+                    "https://nanguasp.oss-cn-hangzhou.aliyuncs.com/nannan07124.json"
+                ],
+                "newHost": "http://134.175.188.60:4491",
+                "bizHost": "http://134.175.188.60:2025",
+                "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfgFYt5LTHeDslGbyQb836pa/f9FaJa20ZvU3rq2TaT4QxbhzMz0QlXhxyJA78VEooiFzNsOKJDFZAvAYGHid1BvTkqEmwaUD38WN/gOXWPevX20X13kbKlKctbTzqB6CsKLdxYyjB4awtF6o66cVFwLAjPmeePSxiSIoMKaO8jZakhHlPMhIgztAgd09eX+bSM6pve35k9CV5X2GSey7Dtth4DQz/NZVc8HGb79uhyrwH1h6IV3BKgOoqcpsHUcggoV1bJ3IIT0+WUMM8S9Yo2dh9T2EXc+gmIH0UAIxwKxmO1jTNzTDR7BvOCMnJQs5DIUx409BPdLdg4zg0SbmQIDAQAB",
+                "privateKey": "MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCN9LrnN2+FFW9oTw5ySIQxClbNZyPQyXyueQmsJw9PELWamIvyrVDhsi2862Da83nXRwjzcBsuT3fSq4BETKfRpsOrI3xprN6HyB+aALoYJbdMt5p3liUeyaw9WNxGZ2VhJ+st6ThGNikKRinFgPkOKaocZgefK7MuKI/EJKrj/FFB1WUE1I1/TT5bkIFMmjc8dszKyqxNdDaRgNTNP1Xou0s/tRCgKpmc503wf2h46F94YK6tpbHvYKouCCKps5ieUu+eWsXZmLRfiM0iZQcD0K5wcbrMvWcS/KmElkWPsCOwErpd/EDgeIbVKtsoHPewG8fOta75iCcb8/J56VbZAgMBAAECggEBAI2+8WIvWIvq+3OMfUBgaJ8PU92GP50blAQjmCTuW7r3VF8qM5P+u+ShpkoePnhi5iawJ5/tMTbs4xjZZxrL8EbH3lnk9TYQB6RNkECWuTujbYSNURBYPHihp/sZ39ntJK3+zjbpyedR7Wj05oDwZ8BcmiABQVsOp7xPhD623m0G3wSYtv1bIeCc+vP8pc1kauCPXl5ZyNCUN6XZKH1mvRkGd+VP9hCYr5LOsPVvn3JM8yF5HUJbxltzZVU/m9WcN9D3lcJ9pqpKBd99G1l5zsN+U23+4VvwX8Qhj4ZkNlMCaNndj+6PvhPGMp4+cCpt94I3xh/OqjdrUAd6jnZpioECgYEA709jQ+yFCobRPKzT/PT6KsqVIJJn0FTMXVc1VP5Sn3t5NTQ+iLzOxQRcO1aTNFVgNKhIgsVnVlGh+1Oa2Zor3vXr1eQBjHCZ2zOH+2QdZbRk4GXoOsZ0d203H189SBCTVj20Zd8mL5csBvihIsMjKZ6R62k/mEyOLD+IVuh+axMCgYEAl9sxrVbU1bvGYgHkGWV7BkqYsezOXR65F3eRq8jbNV0YdYN7rnFCStllIJsMCzJBSs2rBD3lcY6/Tk2ThlFIVHVEhgjjRAUIrLHQBJrFKCSusDMGX39Ekk5DZa+5JNak5J7Ikon6klYtDa1G8PFQTJDKTDfQLm/NgryVFS4Np+MCgYEAljLAfcg8NEAroSZkIvbq8OKXOItLRxGB9u+eVIsO9nP7vi3dNdsy96rl7IRI/ea77DDW2eTmF+JChUiS/xJpiJXXADcL1cZyeobcSScr4EKZsdGkMQeP38kXeMRA5TMqFk3CJNIq2GHMS0/Pas8JCb0xnow/UupxrUnu24UumysCgYBKjYuLDVk6gZC45zLEISVQBmmG2LrLztySH9q9msO8JDNw5hdfoi0osChM5LH6ATc68VQnpfeyU6GqYL2vsNIw3M3CfDSPXWVP25BD4nQu7CtzR+m2ErZomdHO54GfC14y+51/DAyfsX02/L4aZm7E2ETpPHGRisQ7jjgnCNAdfwKBgQDSVzfLvsDi2UqbTjyEIeVYPfgm3Owo0fh79rKvinAainQHabVkAezx+RwiJdWeor/08WiyDjFZC86hJOH8gSMLZ2yJw6EVgHqLTvJ+nkYbk0LzvS2gS2h9lDnqOkkKGZBc5l8k/ScCytcDz3WUFEC2TV2CXDj89H14699s1SjpSw=="
+            }
+        },
+        {
+            "key": "柚子",
+            "name": "柚子影视 | JAR",
+            "type": 3,
+            "api": "csp_V7",
+            "ext": {
+                "host": "http://91.110.236.125:38569/",
+                "path": "/nxyz.php/v7",
+                "signMd5": "b2648f5d9ca7f140fdb8200ce8099576",
+                "apkLength": 53432529,
+                "version": "5.0.3",
+                "versionNumber": "103",
+                "pkId": "com.handytools.csbrr.xyza",
+                "buildTime": "1774111935068",
+                "privateKey": "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAO9omsi+ys7fmBH3w1d0DfvRAQlj0wLB1BI3Xsb9WSiu4lEc1Me+XubnzTxaQPCBbnuZURerRrO981n9GhsQkDcWmtW+X1mpCllOWt8bbnWwKPsHqemRFxncDWE/d0nA9yrZn6nLVy/J7DJ3cVJlIs9bNLArqEiR8KVrAf1PNSLXAgMBAAECgYBGPn3z2q8s5cP7uaOSHFYiBZ/1PlniXDa6JY7ked9YJX/35qqz9LJps6evRpf5OTDOiRyXAkUbZedqBu5K9KArSGVyxp/Vym4b0siEVeM8qq9Gbf74lHPH+L+X/NmXemydwZHR1lU9PiLJVMsh8o6aAazkB8ijZcsNMyYZUSH36QJBAPvHq511Uz45lx5BtVSZClcUnqPRFSmNnRdjATikDzFTObemnGJU3eL/7VIPWtjEj9LvGP/WyX6gyo1zKc8BRtUCQQDza9oFnSmMHPkvrll/zMxcy3FeOTW0hctBhdIMbBmjJJyhlfTmBOvxwm8I91F05ydkSZ1yLuLhAjLxbjqs2fD7AkB/KOHQvW+UTqu22ULGfiCNyFkyrSc9/EqphBQa0ijmJX1R9nCm7Ou/eLgYKK8eKW/l/WGn3IeZT4XdGJu185QdAkBthqmivQRktuSoP5qlllCdsCxiaPtxLoI2CTBpxnoCngab7g0zMiO3s/Sh5CYSo69lwHnHVrFe7M5fM2nTPHzhAkEAiJETUvYFwCVKNGTYMzUg7v3QblqYXB+IhzcU37sHZOn6a46V5eJDadavIvuEmoxJHWTybi+1ZkN7LeUUg4ylCw=="
+            }
+        },
+        {
+            "key": "大师兄影视",
+            "name": "师兄影视 | JAR",
+            "type": 3,
+            "api": "csp_V7",
+            "ext": {
+                "domains": [
+                    "https://log-alibaba-taobao-douyin.cdn.bcebos.com/UpdateAdE",
+                    "https://log-alibaba-taobao-1313984679.cos.ap-guangzhou.myqcloud.com/UpdateAdE"
+                ],
+                "path": "/ndsx.php/v7",
+                "signMd5": "56a4bb80bd67422e9c5b48f003d445c8",
+                "apkLength": 59954699,
+                "version": "4.0.0",
+                "versionNumber": "4000",
+                "pkId": "com.qdsj.zxt.hzjc",
+                "buildTime": "1786613938967",
+                "privateKey": "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAO9omsi+ys7fmBH3w1d0DfvRAQlj0wLB1BI3Xsb9WSiu4lEc1Me+XubnzTxaQPCBbnuZURerRrO981n9GhsQkDcWmtW+X1mpCllOWt8bbnWwKPsHqemRFxncDWE/d0nA9yrZn6nLVy/J7DJ3cVJlIs9bNLArqEiR8KVrAf1PNSLXAgMBAAECgYBGPn3z2q8s5cP7uaOSHFYiBZ/1PlniXDa6JY7ked9YJX/35qqz9LJps6evRpf5OTDOiRyXAkUbZedqBu5K9KArSGVyxp/Vym4b0siEVeM8qq9Gbf74lHPH+L+X/NmXemydwZHR1lU9PiLJVMsh8o6aAazkB8ijZcsNMyYZUSH36QJBAPvHq511Uz45lx5BtVSZClcUnqPRFSmNnRdjATikDzFTObemnGJU3eL/7VIPWtjEj9LvGP/WyX6gyo1zKc8BRtUCQQDza9oFnSmMHPkvrll/zMxcy3FeOTW0hctBhdIMbBmjJJyhlfTmBOvxwm8I91F05ydkSZ1yLuLhAjLxbjqs2fD7AkB/KOHQvW+UTqu22ULGfiCNyFkyrSc9/EqphBQa0ijmJX1R9nCm7Ou/eLgYKK8eKW/l/WGn3IeZT4XdGJu185QdAkBthqmivQRktuSoP5qlllCdsCxiaPtxLoI2CTBpxnoCngab7g0zMiO3s/Sh5CYSo69lwHnHVrFe7M5fM2nTPHzhAkEAiJETUvYFwCVKNGTYMzUg7v3QblqYXB+IhzcU37sHZOn6a46V5eJDadavIvuEmoxJHWTybi+1ZkN7LeUUg4ylCw=="
+            }
+        },
+        {
+            "key": "麦田影院APP",
+            "name": "麦田影视 | JAR",
+            "type": 3,
+            "api": "csp_V7",
+            "ext": {
+                "domains": [
+                    "https://x66tjinp7k02-1343523983.cos.ap-guangzhou.myqcloud.com/log",
+                    "http://build.mt528.xyz/domain.json"
+                ],
+                "path": "/nmtys.php/v7",
+                "signMd5": "c4cd53258e73efb8bf69421d900a545c",
+                "apkLength": 56915830,
+                "version": "2.0.1",
+                "versionNumber": "101",
+                "pkId": "com.CDAStudio.LevelingMasterAndroid.mtyy",
+                "buildTime": "1773672835600",
+                "privateKey": "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAPON2hQgjJtJh43NZJNYeXY7887xU5kR4uWO9syDd2cXMBhkXWTpnJNz6LdJkquDKFSiDRhnyDPtAKs9mtyP31Vf2EFhO7yYJFMQooyJrmov97OfyUDBNhU8SeeVm215QgDJY+eylZleJxvJ3EEYgY7FknhU7XyVdv+g4Ju3eqzDAgMBAAECgYBC0o+b6BZL4M+1Qz4uAx9IJkjNZX73R2YGb8Qc9pEDEuSaPKc3MbVI64tVBnWcYx7koZWQNaFDRepiEUP08fBnFiCwM2RuC1ThBkvOlax8VW93D6g3F4Ow3S5U7lFWJz6ih59dDizLlPFVi4prvB/MdWobXtt7qjSgbDdqSKVDcQJBAPqsAy6rEh/ag8cbq3JprE7Y4axGtxsnQ1IztjmBTHYp5gE0jwlClHDYWLECyOrAFh5N62+QuXBaTe6gmjo2ZnkCQQD4uxvtZD1NUkabbAPoinYf8CENN+yAcjgVLhh2vHSTk6ifwK9NOcQNM0b6fwQqdZe68yi5IRnMHGLd6wCXbU4bAkEApcBuDkLSJjvwXQ0fzfSwGibw+mB8HTlWG5nUCaxEqfHEg9GEL0RWMVPtOYa04f0H4xv07P2OkQs1cu/Ba3KjSQJAZ7uBFiwr9MdPcxpFNwIn6YH4Bs8/7wGzqgGjakGGTNXUCWwOsCJbRTYRb/7w+dQ5B1rJrQvE+n8MLIkJoh2P6QJAe7zNSWETfsKfhsYZgN2VRFFaXWoNPGMG81WdesZCmPoSKLYiy96zaH7YVgUbeR+h3NQL67KXmiyimtoej5ZMig=="
+            }
+        },
+        {
+            "key": "粉猪APP",
+            "name": "粉猪影视 | JAR",
+            "type": 3,
+            "api": "csp_V7",
+            "ext": {
+                "domains": [
+                    "https://open-douyin-com-1363079259.cos.ap-guangzhou.myqcloud.com/log",
+                    "https://ads-douyin-com-1363079272.cos.ap-shanghai.myqcloud.com/log"
+                ],
+                "path": "/nfenzhu.php/v7",
+                "signMd5": "d16074f47cceb00256ce9d9519d5a5c1",
+                "apkLength": 56877789,
+                "version": "1.0.4",
+                "versionNumber": "14",
+                "pkId": "com.zitibaohe.jianzhuzigejianli.szxja",
+                "buildTime": "1773893703246",
+                "privateKey": "MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBALIEfbWOggIf6vqMaVycPW6mPc3J8WXpgMCeSnTxMPfEGaXTB788FNIai5792Kb2bgnlhEA/xpxD+4bzIupse8v/RhoMeVxAu1npsrL3uubZFKgZXN2T680aY1a6BhPO0EUN0qeRYqU1ay3Pk9uojYUxBaTidMwdM+Vxdp2mY0TZAgMBAAECgYBrIszNQbD4umDe3TZj6BwIxcAYY9sGbJtyUVGaQ7YmxzxwUistamlVcWhqDXggM9tR1XHcgQV08m0kcJuo3hU6VLYM4pqGU5W4oifT7ABkKvu55NkZtCX0AlF+6CSTfiVissNaN8mT1C2BcdgBBzlh+LRRAoVybh0RjdOsafZMqQJBAOlFOBQGNEiukPj8l0HIb6f45koyar4+2YcJjHeHHs8dbF2vegxGvfC9sJPdjSCa0om3zT19mCw4TVyJVFcG858CQQDDXQZqyoNG9i71nX7f1ca7IxKc3uHQmiq0WhSoHX9VZOBl2Kj2cryCmg8XzAtfNfHy4MpEuIzMuti4xCXSc7SHAkEAqej5R9ydCLPedP3HTusoKTlqxHCkv54X4/xYjFenYUUVQcgnJfoBL/F7RLkDqtQatqVioX9x8AOylcyR2jH+EQJATf5xdWjsCAR4su3xnQMHl+Zko+QHWvRxYBcmcAd2smzXeVGKAvnDcJB4vhNj5trugPxlRBI5g/KEWx9TyjUPOQJBAK9T1LCqL3PiQvO6TCFmfN8xvBZF2GHvTTc+8MmhnLgG3Nw+LTpSjO0xWVysD1wcFC0MYRx8eVN0SFjJ1rMnjr0="
+            }
+        },
+        {
+            "key": "松子APP",
+            "name": "松子影视 | JAR",
+            "type": 3,
+            "api": "csp_V7",
+            "ext": {
+                "domains": [
+                    "https://xtop-1338138679.cos.ap-guangzhou.myqcloud.com/xtop.json",
+                    "https://baidu.fttv.top/xtop.json"
+                ],
+                "path": "/songzi.php/v7",
+                "signMd5": "dd2d1fbf4f28e274e1246de76b07d34b",
+                "apkLength": 54692457,
+                "version": "1.2.0",
+                "versionNumber": "100",
+                "pkId": "com.ejin.laborofworker.songzi",
+                "buildTime": "1774494407444",
+                "privateKey": "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAKhAarBDgH3P+9gSltZ/ZOhWrznWk/CPfkfumqe9JYpD40Bnllpdjc/Ejx8bOioI+WNZpKk+CSv4w6I8OUy12S0sJJN5oDxSzEGznFyrq7s3GEngRAcF/coM8mSR4P6Dx7dKlkFKhQAXC/hgpnQFHJGZU1MUJQvkcrpA4KwIVh61AgMBAAECgYAkVFx1GO46vFkN692kDTf1rxoA7CNfkyxaTdwZEg90DnqYYoWll4PSdAfPWKqzfuKSoD2cyadjVkCv3D8nIDD3ZWqmOz8wARewd+Mvq8ZhwNjJZ2RC2RD8Kb3E5W8Lfg39DVd5llsNaSnXp+op/K1kFaVR42uFyVKhSDhgAmYntQJBANEb0sJVU7CdHcQxM3g4XB7kYaVIA88fENofj1rTCITBcLGsHXEyX/Oj5Bwjfn28I9sBRlJAUm++fDceJXxuOTsCQQDN+yMO7xgrqP0MUMZWKmJrSHi8HwN2MKtvwQCJ0fAK5r3vXCqU6SAbddAt1EcxUBjhOmCvMsy5o8l7rrr1hAjPAkEAyhejxyED8wrFu9j5L1T44vpBzKUe2Uvi04vw1gxijTsOmQgIpF/VD/jy+qbrFsV/uacvuUpk4Y4tKm++NtWoBQJAHT7P/nnSC7jlnM8HKgrAiIz0n3kjy68jWC2l/utw0otqYkbKwPPMnDmBAlDGfujpb2kTeyySRrVLkSUA5IUHnwJAUVHLYmU+cHuacKW5+jSQ3q9bKjUHuU8+IL04ohEbmGcWjoxnbkkebc8oiv3klCXgTy/jgwBBb1aZridT0V2faA=="
+            }
+        },
+        {
+            "key": "爱其",
+            "name": "爱其意影 | JAR",
+            "type": 3,
+            "api": "csp_V7",
+            "ext": {
+                "domains": [
+                    "https://d8999478acc6-1308546782.cos.ap-shanghai.myqcloud.com/log",
+                    "https://brokh8ton-1366515897.cos.ap-nanjing.myqcloud.com/fel0ua65k2"
+                ],
+                "path": "/naiqiyi.php/v7/logs",
+                "signMd5": "cfde20b83e3b9a845ad287bfcce65b19",
+                "apkLength": 54591120,
+                "version": "2.0.3",
+                "versionNumber": "16",
+                "pkId": "com.CDAStudio.ReinforcingBarAndroid.aqyc",
+                "buildTime": "1784358145599",
+                "privateKey": "MIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBAMDiNevpNgixsWTuuyn7suuSGpCk7EbUrWeVjMS6n6BsGSFk2dfxPwgI589uA58T0CGVoXY+Bg5v5uwz6YHoFHqVK8YjD8N7FQlUin/d8SuQ2kP0d/GtmaiDyOBAV2Jmw2Sr+QYAfD1vyf5zOGgNljauJcRbG15/hMgJkq9Th/rNAgMBAAECgYBEG1wY2fcnaL8PubBC6cpKngNdUa7Qb+Zu7gKPsKoOtjzFatv1AQ1Vo/deaiVDNXbHdRNXMh1nWaH7g3UPVshrx00NsuvYNO82zNb0aET7x3+UFZkoKLoHvmbyIVMeANlnKbxHc2j1Oel1eQkS6zMe8G/OkBy6SoRKUbA3MyutjQJBAOhWoFHBll+q5vXDqDXYKannfDfsg/mLL22plSzzR7O1Rz0lV3uSBA4yq5rwK934RwJTNRXstzSSaKvbGf9kEfMCQQDUhvIzIEanMnhZKN2SmURRFxejy36suE0TFV080VrlazIYqpUATYa12PQwCS2/CxbqSOsoQBKY8V4dwhrnzjA/AkEAo1XrBS7cQUtLbTFsutXJjImReVtL+I4R/L1Ag0ZQfRUPDPyIgPXI5hZXL+hyXm0hto+6fTxaG5pl/ZNdtn6qYwJBAMRnVWrEGCcpsCiNaH6zH3xk/9bCF3Xc+HV7V+f9fafosaoz8nEONEDXl4rQ4LLdt7aZ3qAa3lTzMkwD9sNkPBcCQQC4Zaq6zve1UQyYgaUW+Q5E4lvPNdJOcaDLRGAvDhpHyQgXNGpldDCBvXn1DbXVBfHNHM3QC6xhtbl5XsMOoYb5"
+            }
+        },
+        {
+            "key": "松子影视2",
+            "name": "松子影二 | JAR",
+            "type": 3,
+            "api": "csp_Bteys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "https://api.bteys.com"
+            }
+        },
+        {
+            "key": "MaiDuiDui",
+            "name": "埋堆堆堆 | JAR",
+            "type": 3,
+            "api": "csp_MaiDuiDui",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "剧圈圈",
+            "name": "剧圈九九 | JAR",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://124.221.3.182:19987/app/bn"
+            }
+        },
+        {
+            "key": "23影视",
+            "name": "二三九九 | JAR",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://118.184.173.5:39987/app/bn"
+            }
+        },
+        {
+            "key": "蓝鹰九九",
+            "name": "蓝鹰九九 | JAR",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://43.248.117.94:19912/app/bn"
+            }
+        },
+        {
+            "key": "追片喵",
+            "name": "片喵九九 | JAR",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://42.240.163.156:19987/app/bn"
+            }
+        },
+        {
+            "key": "半日闲",
+            "name": "半日九九 | JAR",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://103.217.190.91:19987/app/bn"
+            }
+        },
+        {
+            "key": "YunZhenXiang",
+            "name": "云臻享影 | JAR",
+            "type": 3,
+            "api": "csp_YunZhenXiang",
+            "ext": {
+                "host": "https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json",
+                "key": "cXZuMXU3RkNmdTh1YW85b2k4MGk4dVZIVlM4RHhpaDc=",
+                "version": "2.8.0"
+            }
+        },
+        {
+            "key": "JuGuangShe",
+            "name": "聚光社影 | JAR",
+            "type": 3,
+            "api": "csp_JuGuangShe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "TengAiYou",
+            "name": "爱优腾芒 | JAR",
+            "type": 3,
+            "api": "csp_TengAiYou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Gulu",
+            "name": "咕噜牛逼 | JAR",
+            "type": 3,
+            "api": "csp_Gulu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Zbc4k",
+            "name": "还真不错 | JAR",
+            "type": 3,
+            "api": "csp_Zbc4k",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "DianYingLieShou",
+            "name": "电影猎手 | JAR",
+            "type": 3,
+            "api": "csp_DianYingLieShou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Stslight",
+            "name": "追剧兔影 | JAR",
+            "type": 3,
+            "api": "csp_Stslight",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "WangWangYingShi",
+            "name": "旺旺影视 | JAR",
+            "type": 3,
+            "api": "csp_WangWangYingShi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "星剧影视",
+            "name": "星剧影视 | JAR",
+            "type": 3,
+            "api": "csp_Gg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://xingjuchangbai.yuandongkj.top:8081"
+        },
+        {
+            "key": "火花影视",
+            "name": "火花影视 | JAR",
+            "type": 3,
+            "api": "csp_Gg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dsadsads3.oss-cn-hangzhou.aliyuncs.com/huohua.txt"
+        },
+        {
+            "key": "凤凰影视",
+            "name": "凤凰影视 | JAR",
+            "type": 3,
+            "api": "csp_Gg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://sjb.hmysapp.cn:5533"
+        },
+        {
+            "key": "阳光彼岸",
+            "name": "阳光彼岸 | JAR",
+            "type": 3,
+            "api": "csp_GetXX",
+            "ext": {
+                "host": "http://45.192.109.206:9981",
+                "key": "JLa1oRdL6+eK7@M)",
+                "api": "3",
+                "from": "4K>-G2"
+            }
+        },
+        {
+            "key": "TVB云播",
+            "name": "云播影视 | JAR",
+            "type": 3,
+            "api": "csp_GetXX",
+            "ext": {
+                "host": "http://app.tuxianimg.com",
+                "key": "MickwrKuMickwrKu",
+                "api": "3"
+            }
+        },
+        {
+            "key": "咖咖影视",
+            "name": "咖咖影视 | JAR",
+            "type": 3,
+            "api": "csp_GetXX",
+            "ext": {
+                "host": "http://154.222.25.72:8536",
+                "key": "d3799pudaccmtyyo",
+                "api": "3"
+            }
+        },
+        {
+            "key": "王子影视",
+            "name": "王子影视｜APP",
+            "type": 3,
+            "api": "csp_GetXX",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "https://app.95112475.xyz",
+                "key": "5a9w6x58dsq6z3a6",
+                "api": "/api.php/getappapi.index",
+                "initPath": "initV119"
+            }
+        },
+        {
+            "key": "Guazi",
+            "name": "瓜子影视 | JAR",
+            "type": 3,
+            "api": "csp_Guazi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "HeTun",
+            "name": "河豚影视 | JAR",
+            "type": 3,
+            "api": "csp_HeTun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "HuaShu",
+            "name": "华数影视 | JAR",
+            "type": 3,
+            "api": "csp_HuaShu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "JuZhi4K",
+            "name": "橘汁影视 | JAR",
+            "type": 3,
+            "api": "csp_JuZhi4K",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "KanJuAI",
+            "name": "看剧哎呦 | JAR",
+            "type": 3,
+            "api": "csp_KanJuAI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "KeKe",
+            "name": "可可影视 | JAR",
+            "type": 3,
+            "api": "csp_KeKe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "端木qiji",
+            "name": "端木奇迹 | JAR",
+            "type": 3,
+            "api": "csp_QiJi",
+            "ext": {
+                "site": "https://beyond9999.obs.cn-east-3.myhuaweicloud.com/dmapp.txt",
+                "nsKey": "123456789abcdeff"
+            }
+        },
+        {
+            "key": "追影qiji",
+            "name": "追影奇迹 | JAR",
+            "type": 3,
+            "api": "csp_QiJi",
+            "ext": {
+                "site": "https://8kf2h8shid1a-1343523983.cos.ap-guangzhou.myqcloud.com/log.txt",
+                "nsKey": "ouKqNDmFvqPWurfi"
+            }
+        },
+        {
+            "key": "麻花qiji",
+            "name": "麻花奇迹 | JAR",
+            "type": 3,
+            "api": "csp_QiJi",
+            "ext": {
+                "site": "https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsqj.txt",
+                "nsKey": "JIKl5sdIMd87UIqe"
+            }
+        },
+        {
+            "key": "py_4K影院",
+            "name": "四开奇迹 | JAR",
+            "type": 3,
+            "api": "csp_XinQiJi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/604.txt",
+                "key": "FTgP4Gq8zPiqbt7M",
+                "from": "4K@m3u8"
+            }
+        },
+        {
+            "key": "YingShiGongChang",
+            "name": "影视工厂 | JAR",
+            "type": 3,
+            "api": "csp_YingShiGongChang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Fanqiejiang",
+            "name": "番茄酱影 | JAR",
+            "type": 3,
+            "api": "csp_Fanqiejiang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Tingyou",
+            "name": "听友听书 | JAR",
+            "type": 3,
+            "api": "csp_Tingyou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "WuAiTingShu",
+            "name": "吾爱听书 | JAR",
+            "type": 3,
+            "api": "csp_WuAiTingShu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "HongGuo",
+            "name": "红果短剧 | JAR",
+            "type": 3,
+            "api": "csp_HongGuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "WeiGuanDuanJu",
+            "name": "围观短剧 | JAR",
+            "type": 3,
+            "api": "csp_WeiGuanDuanJu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "QiMaoDuanJu",
+            "name": "七猫短剧 | JAR",
+            "type": 3,
+            "api": "csp_QiMaoDuanJu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "XiFuDuanJu",
+            "name": "西服短剧 | JAR",
+            "type": 3,
+            "api": "csp_XiFuDuanJu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "DouYinZhiBo",
+            "name": "抖音直播 | JAR",
+            "type": 3,
+            "api": "csp_DouYinZhiBo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "NaKanZhiBo",
+            "name": "耐看直播 | JAR",
+            "type": 3,
+            "api": "csp_NaKanZhiBo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "YangShiWang",
+            "name": "央视网影 | JAR",
+            "type": 3,
+            "api": "csp_YangShiWang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "DianShiZhiBo",
+            "name": "电视直播 | JAR",
+            "type": 3,
+            "api": "csp_DianShiZhiBo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "KaiDuanZhiBo",
+            "name": "开端直播 | JAR",
+            "type": 3,
+            "api": "csp_KaiDuanZhiBo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        }
+    ],
+    "lives": [
+        {
+            "name": "耐看ᵃᵖᵖ",
+            "type": 3,
+            "api": "csp_NaKanZhiBo",
+            "header": {
+                "User-Agent": "ijkplayer/1.0.0 (Linux;Android 11) ExoPlayerLib/2.14.1"
+            }
+        },
+        {
+            "name": "开端ᵃᵖᵖ",
+            "type": 3,
+            "api": "csp_KaiDuanZhiBo",
+            "header": {
+                "User-Agent": "ijkplayer/1.0.0 (Linux;Android 11) ExoPlayerLib/2.14.1"
+            }
+        }
+    ]
+}
