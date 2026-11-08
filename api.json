@@ -1,0 +1,20 @@
+{
+  "spider": "https://gh-proxy.org/raw.githubusercontent.com/xueyang1985/bjx/refs/heads/main/csp_Xiaosheng.jar",
+  "wallpaper": "",
+  "logo": "",
+  "sites": [
+    {
+      "key": "xiaosheng",
+      "name": "小生影视",
+      "type": 3,
+      "api": "csp_Xiaosheng",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "pars": [],
+  "flags": []
+}
