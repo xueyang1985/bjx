@@ -1,5 +1,5 @@
 {
- "spider": "https://ghfast.top/https://raw.githubusercontent.com/xueyang1985/bjx/refs/heads/main/spider-aowu.jar",
+ "spider": "https://cdn.jsdelivr.net/gh/xueyang1985/bjx@main/spider-aowu.jar",
  "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
  "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
  "wallpaper": "",
