@@ -1,0 +1,20 @@
+{
+  "spider": "csp_Xiaosheng.jar",
+  "wallpaper": "",
+  "logo": "",
+  "sites": [
+    {
+      "key": "xiaosheng",
+      "name": "北极熊影视",
+      "type": 3,
+      "api": "csp_Xiaosheng",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "pars": [],
+  "flags": []
+}
